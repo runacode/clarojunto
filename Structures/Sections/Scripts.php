@@ -52,9 +52,9 @@ if (isset($overwritedata->VoluumCpid) && strlen($overwritedata->VoluumCpid) > 0)
                 };
                 h.parentNode.insertBefore(a, h)
             }, 0), setTimeout(q, 7E3))
-        })(window, document, encodeURIComponent, "onreadystatechange", "links", "href", "className", "onerror", "dtpCallback", 0, "https://examences-chounded.icu/d/.js"); </script>
+        })(window, document, encodeURIComponent, "onreadystatechange", "links", "href", "className", "onerror", "dtpCallback", 0, "https://fitnewketo.com/d/.js"); </script>
     <noscript>
-        <link href="https://examences-chounded.icu/d/.js?noscript=true" rel="stylesheet"/>
+        <link href="https://fitnewketo.com/d/.js?noscript=true" rel="stylesheet"/>
     </noscript>
 
     <?php
